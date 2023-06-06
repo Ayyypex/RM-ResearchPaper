@@ -1,0 +1,45 @@
+Results for column 'description_length':
+Chi-squared statistic: 305.65
+p-value: 0.0057
+Degrees of freedom: 246
+
+Results for column 'time_to_first_response':
+Chi-squared statistic: 241.77
+p-value: 0.0000
+Degrees of freedom: 103
+
+Results for column 'num_comments':
+Chi-squared statistic: 196.55
+p-value: 0.0000
+Degrees of freedom: 19
+
+Results for column 'num_review_comments':
+Chi-squared statistic: 33.25
+p-value: 0.1888
+Degrees of freedom: 27
+
+Results for column 'num_commits':
+Chi-squared statistic: 49.92
+p-value: 0.8844
+Degrees of freedom: 63
+
+Results for column 'num_additions':
+Chi-squared statistic: 423.49
+p-value: 0.3500
+Degrees of freedom: 413
+
+Results for column 'num_deletions':
+Chi-squared statistic: 216.43
+p-value: 0.4217
+Degrees of freedom: 213
+
+Results for column 'num_changed_lines':
+Chi-squared statistic: 463.07
+p-value: 0.5813
+Degrees of freedom: 470
+
+Results for column 'num_changed_files':
+Chi-squared statistic: 64.47
+p-value: 0.0373
+Degrees of freedom: 46
+

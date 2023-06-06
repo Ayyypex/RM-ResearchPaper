@@ -1,0 +1,25 @@
+Time to Merge Linear Regression Coefficients:
+	description_length: 0.015880851018652803
+	time_to_first_response: 0.7827859253990705
+	num_comments: 30.17790748898162
+	num_review_comments: -1.9650319203916893
+	num_commits: 0.3562526691139563
+	num_additions: 947410782886.4491
+	num_deletions: 947410782886.48
+	num_changed_lines: -947410782886.4323
+	num_changed_files: 0.07099662993041386
+
+Time to Merge Linear Regression Intercept:-5.664624198768642
+
+P-values:
+const                      1.022188e-01
+description_length         5.463341e-01
+time_to_first_response     3.549180e-25
+num_comments              1.236166e-185
+num_review_comments        8.328736e-03
+num_commits                1.097254e-02
+num_additions              6.181149e-01
+num_deletions              1.637516e-02
+num_changed_lines          1.387187e-05
+num_changed_files          8.200101e-01
+dtype: float64
